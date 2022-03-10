@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+Local Server:- XAMPP
+BootStrapp version:- 4.5.2
+[bootstrap-4.5.2-dist.zip](https://github.com/ocean38/ocean38/files/8219785/bootstrap-4.5.2-dist.zip)
+
+JDBC Connector:- [mysql-connector-java-8.0.21.zip](https://github.com/ocean38/ocean38/files/8219788/mysql-connector-java-8.0.21.zip)
+[com.mysql.jdbc_5.1.5.jar.zip](https://github.com/ocean38/ocean38/files/8219791/com.mysql.jdbc_5.1.5.jar.zip)
